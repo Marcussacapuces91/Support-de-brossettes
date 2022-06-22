@@ -56,4 +56,4 @@ Ce projet est sous licence publique, la [WTFPL V2](LICENSE) *What The Fuck you w
 
 ## Remerciements
 
-  - Merci à Rose pour son soutient dans cette action créatrice
+  - Merci à Rose :rose: pour son soutient dans cette action créatrice
