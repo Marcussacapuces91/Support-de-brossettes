@@ -2,6 +2,7 @@
 
 Support de tube de dentifrice &amp; de brossettes
 ![20220613_201858-2048x996](https://user-images.githubusercontent.com/266435/174994163-638cfea0-350e-46b3-b4f2-077100a0048d.jpg)
+![3D rendering](https://github.com/Marcussacapuces91/Support-de-brossettes/blob/main/support%20brosses.png)
 
 ## Résumé
 
